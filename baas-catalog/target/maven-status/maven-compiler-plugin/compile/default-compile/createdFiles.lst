@@ -1,0 +1,6 @@
+com\digiwes\baas\catalog\resource\CatalogManagementResource.class
+com\digiwes\baas\catalog\internal\MainActivator.class
+com\digiwes\baas\catalog\resource\BookResource.class
+com\digiwes\baas\catalog\model\TimePeriod.class
+com\digiwes\baas\catalog\model\Category.class
+com\digiwes\baas\catalog\model\Book.class
