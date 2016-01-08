@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<feature id="com.digiwes.baas.baas-catalog-feature" label="baas-catalog-feature" provider-name="%providerName" version="1.0.0">
-  <description/>
-  <copyright>%copyright</copyright>
-  <license url="%licenseURL">%license</license>
-  <plugin id="com.digiwes.baas.baas-catalog" unpack="false" version="1.0.0"/>
-</feature>

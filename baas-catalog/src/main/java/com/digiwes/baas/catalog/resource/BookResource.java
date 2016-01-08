@@ -12,7 +12,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * Created by zhaoyp on 2015/8/20.
+ * Created by zhaoyp on 2015/8/20. 赵云萍
  */
 @Path("/books")
 @Produces({"application/xml","application/json"})

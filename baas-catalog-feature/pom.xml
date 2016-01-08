@@ -15,6 +15,9 @@
         <version.baas.catalog>1.0.0</version.baas.catalog>
         <version.p2.plugin>1.5.4</version.p2.plugin>
     </properties>
+    <dependencies>
+
+    </dependencies>
     <repositories>
         <repository>
             <releases>
